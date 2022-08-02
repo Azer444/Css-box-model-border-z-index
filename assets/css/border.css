@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    color:brown;
+    margin-left: 5px;
+}
+.two{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:chocolate;
+}
+.three{
+    color:brown;
+}
+.four{
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    padding: 10px;
+    background-color:darkmagenta;
+}
